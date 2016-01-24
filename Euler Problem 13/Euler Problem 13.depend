@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1448231906 source:d:\users\minns_000\documents\euler problem 13\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
