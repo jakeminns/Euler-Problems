@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1448107428 source:d:\users\minns_000\documents\euler project 7\main.cpp
+	<iostream>
+	<vector>
+
+1448110368 source:d:\users\minns_000\documents\github\c-plus-plus\project-euler-solutions\euler project 7\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
